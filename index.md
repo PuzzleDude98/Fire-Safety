@@ -15,5 +15,5 @@
   <br>
   <button onclick="window.location.href = 'kahoot';">Kahoot!</button>
   <br>
-   <button onclick="window.location.href = 'greasefire';">ieiqwopieqopwioqwpeiopqweiowpqoeio Grease fire Protocall</button>
+   <button onclick="window.location.href = 'greasefire';">Grease fire Protocall</button>
 </html>
