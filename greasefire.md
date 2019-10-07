@@ -13,3 +13,7 @@ Or:
 <img src="FireGirl.gif" alt="bruh its broken sry">
 <br>
 Because then you will die and who would want that?
+<br>
+Don't put water on it either:
+<br>
+<img src="WaterOnFire.jpg" alt="bruh its broken sry">
