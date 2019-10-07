@@ -11,3 +11,4 @@ Here is what NOT to do:
 Or:
 <br>
 <img src="FireGirl.gif" alt="bruh its broken sry">
+Because then you will die and who would want that?
