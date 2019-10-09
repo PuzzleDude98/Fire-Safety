@@ -18,6 +18,6 @@ Don't put water on it either:
 <br>
 <img src="WaterOnFire.gif" alt="bruh its broken sry">
 <br>
-Fire extinguishers are also bad. Not only will you have a grease fire, now you mjust shot it across the room and into the wall!
+Fire extinguishers are also bad. Not only will you have a grease fire, now you just shot it across the room and into the wall!
 <br>
 The proper
