@@ -20,7 +20,7 @@ Don't put water on it either:
 <br>
 Fire extinguishers are also bad. Not only will you have a grease fire, now you just shot it across the room and into the wall!
 <br>
-The proper protocall is to simply to cover the fire with a lid or another pan.
+The proper protocall is to simply to cover the fire with a lid or another pan untill it is fully extinguished.
 <br>
 <img src="greasefireout.gif" alt="bruh its broken sry">
 <br>
