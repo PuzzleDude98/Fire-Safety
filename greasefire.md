@@ -3,7 +3,7 @@
 <br>
 Lets say you have a grease fire.
 <br>
-<img src="fire.jpg" alt="FIRE!!!!">
+<img src="fire.jpg" alt="Fire pic here">
 Here is what NOT to do:
 <br>
 <img src="FireDancing.gif" alt="bruh its broken sry">
@@ -17,3 +17,7 @@ Because then you will die and who would want that?
 Don't put water on it either:
 <br>
 <img src="WaterOnFire.gif" alt="bruh its broken sry">
+<br>
+Fire extinguishers are also bad. Not only will you have a grease fire, now you mjust shot it across the room and into the wall!
+<br>
+The proper
