@@ -27,3 +27,7 @@ The proper protocall is to simply to cover the fire with a lid or another pan un
 <h3>THAN</h3> you can celebrate.
 <br>
 <img src="dancebot.gif" alt="bruh its broken sry">
+<br>
+Oven fires are much the same. Just close the door. Than Dance.
+<br>
+<img src="dancebot.gif" alt="bruh its broken sry">
